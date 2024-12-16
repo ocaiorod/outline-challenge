@@ -2,7 +2,7 @@
 
 ### Screenshots
 
-![Outline Challenge Interface](https://github.com/ocaiorod/outline-challenge/tree/main/screenshot)
+![Outline Challenge Interface](https://github.com/user-attachments/assets/c180b866-8956-420c-89ad-94f4acba1edb)
 
 [Outline Challenge](https://outlinechallenge.netlify.app/) is a web app for people who love to draw and make outlines! it's a first step from a project called "Outline Challenge". You can show your creativity in a full white canvas with some already known tools and show for people your personal piece of art!
 
